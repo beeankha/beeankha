@@ -38,3 +38,13 @@ o888bood8P'  o888o `Y888""8o o888o o888o `Y8bod8P' `Y888""8o     8""888P'
      \__\/                                 \__\/         \__\/         \__\/    
 
 ```
+
+Hi! 👋 I'm a self-taught developer on the API/backend team for the Ansible Automation Platform at Red Hat.
+
+Currently familiar with:
+- Python 🐍
+- Bash 🐚
+- Linux 🐧
+- Docker 🐋
+
+...and several other things I probably won't be able to find corresponding emojis for.
