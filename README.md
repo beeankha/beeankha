@@ -39,7 +39,7 @@ o888bood8P'  o888o `Y888""8o o888o o888o `Y8bod8P' `Y888""8o     8""888P'
 
 ```
 
-Hi! 👋 I'm a self-taught developer on the API/backend team for the Ansible Automation Platform at Red Hat.
+Hi! 👋 I'm a backend/API developer on the Ansible Automation Platform Controller team at Red Hat.
 
 Currently familiar with:
 - Python 🐍
