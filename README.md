@@ -1,4 +1,4 @@
-Hi! 👋 I'm a software engineer on the Clients/Distro team at Anaconda.
+Hi! 👋 I'm a software engineer at Anaconda.
 
 Currently familiar with:
 - Python 🐍
