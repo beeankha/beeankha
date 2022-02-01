@@ -14,3 +14,5 @@ Current interests:
 - AI research and development 🤖
 - Statistics and probability 🎲
 - Game design and development 🎮
+
+Check out my `git` metrics [here](https://metrics.lecoq.io/about/beeankha)! 
