@@ -4,12 +4,14 @@ Currently familiar with:
 - Python 🐍
 - Bash 🐚
 - Linux 🐧
+- Python packaging 📦
 - Docker 🐋
 
 ...and several other things I probably won't be able to find corresponding emojis for. 😄
 
 Current interests:
-- Python packaging 📦
+- Rust 🦀
+- C++ 🏎
 - Data science 🧪
 - Machine learning 🧠
 - AI research and development 🤖
