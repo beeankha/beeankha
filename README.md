@@ -11,6 +11,7 @@ Currently familiar with:
 
 Current interests:
 - Rust 🦀
+- Java :coffee:
 - C++ 🏎
 - Data science 🧪
 - Machine learning 🧠
