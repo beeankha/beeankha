@@ -1,3 +1,5 @@
+![Stats!](https://github-readme-stats.vercel.app/api?username=beeankha&show_icons=true&theme=radical)
+
 Hi! 👋 I'm a software engineer at Anaconda.
 
 Currently familiar with:
