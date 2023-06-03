@@ -5,13 +5,13 @@ Currently familiar with:
 - Bash 🐚
 - Linux 🐧
 - Python packaging 📦
-- Docker 🐋
+- Containers 🐋
+- Release management 🚢
 
 ...and several other things I probably won't be able to find corresponding emojis for. 😄
 
 Current interests:
 - Rust 🦀
-- Java :coffee:
 - C++ 🏎
 - Data science 🧪
 - Machine learning 🧠
