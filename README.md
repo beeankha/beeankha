@@ -12,7 +12,7 @@ Currently familiar with:
 
 Current interests:
 - Rust 🦀
-- C++ 🏎
+- C/C++ 🏎
 - Windows/PowerShell 🪟
 - Data science 🧪
 - Machine learning 🧠
