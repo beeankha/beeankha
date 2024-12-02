@@ -1,4 +1,4 @@
-Hi! 👋 I'm a software engineer at Anaconda.
+Hi! 👋 I'm a software engineer at Red Hat / Ansible.
 
 Currently familiar with:
 - Python 🐍
